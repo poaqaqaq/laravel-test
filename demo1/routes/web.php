@@ -15,5 +15,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/test', function () {
-    return 'test for git6';
+    return 'test for git7';
 });
